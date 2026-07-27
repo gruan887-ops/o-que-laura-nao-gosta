@@ -1,24 +1,3 @@
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Descobrindo os gostos de Laura</title>
-    <style>
-        * { box-sizing: border-box; margin: 0; padding: 0; }
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
-            color: #fff;
-            min-height: 100vh;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            padding: 15px;
-        }
-        .card {
-            background: rgba(20, 20, 35, 0.85);
-            backdrop-filter: blur(10px);
-            border: 2px solid rgba(0, 243, 255, 0.3);
             border-radius: 20px;
             width: 100%;
             max-width: 500px;
